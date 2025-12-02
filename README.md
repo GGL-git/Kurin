@@ -3,6 +3,8 @@
 [![GitHub release](https://img.shields.io/github/v/release/GGL-git/Kurin?style=for-the-badge)](https://github.com/GGL-git/Kurin/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/GGL-git/Kurin/total?style=for-the-badge&color=00B000)](https://github.com/GGL-git/Kurin/releases/)
 
+[Пряме завантаження (клацни на мене і почнеться завантаження)](https://github.com/GGL-git/Kurin/releases/latest)
+
 kurin’ використовує такі технології:  
 [![Electron](https://img.shields.io/badge/Electron-4078c0?style=for-the-badge&logo=electron&labelColor=gray)](https://www.electronjs.org/)
 [![React](https://img.shields.io/badge/React-5fd9fb?style=for-the-badge&logo=react&labelColor=gray)](https://reactjs.org/)
