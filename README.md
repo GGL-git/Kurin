@@ -23,9 +23,8 @@ kurin’ використовує такі технології:
 
 **kurin’** — це лаунчер, подібний до *Steam* або *Vortex від Nexus*, але створений спеціально для українських фанатських локалізацій.  
 Його основа — **KULI** (Каталог української локалізації ігор).
-<img width="1920" height="1020" alt="головна сторінка" src="https://github.com/user-attachments/assets/1f4d8f0a-01d9-497a-866c-aaf83cc2bda5" />
+<img width="1920" height="1020" alt="головна сторінка" src="https://github.com/user-attachments/assets/5f013370-d2b3-4c5f-aabf-37db9ad97227" />
 <img width="1920" height="1020" alt="сторінка локалізації" src="https://github.com/user-attachments/assets/05c1f12b-d99a-4c36-8e9f-7de4d85fedfa" />
-
 
 
 Ідея походить від слова **«курінь»** — місця, де вільні люди збираються разом, аби творити.  
