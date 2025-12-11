@@ -15,7 +15,6 @@ Ancient Trader
 Baldur's Gate 2: Enhanced Edition
 Baldur's Gate: Enhanced Edition
 Baldur’s Gate: Siege of Dragonspear
-Bastion
 Batman: Arkham Asylum Game of the Year Edition
 Below
 Beyond Blue
@@ -34,6 +33,7 @@ C&C - Command & Conquer: Tiberian Sun & Firestorm
 Call of Juarez: Gunslinger
 Castlevania: Lords of Shadow – Ultimate Edition
 Cat Quest
+Chaser
 Choo-Choo Charles
 City of Brass
 Civilization: Beyond Earth
@@ -49,6 +49,7 @@ Darksiders Warmastered Edition
 Dead Space (2008)
 Dead Space 2
 Deadlight
+Deathmatch Classic
 Delta Force
 Delta Force 2
 Dispatch
@@ -58,6 +59,7 @@ Divinity: Original Sin (Enhanced)
 Doki Doki Literature Club Plus!
 Dragon Age: Origins
 Drawful 2
+DreadOut
 Duke Nukem 3D: 20th Anniversary World Tour
 Dungeon of the ENDLESS
 El Matador
@@ -83,6 +85,7 @@ Fire and Steel
 Firewatch
 Florence
 Forgotten Hill Tales
+Fresh Start Cleaning Simulator
 Frostpunk
 Galaxy on Fire 2™ Full HD
 Garfield Kart - Furious Racing
@@ -106,12 +109,16 @@ Hogwarts Legacy
 Hollow Knight
 Horizon Zero Dawn™ Complete Edition
 I Am Fish
+Ice Age Scrat's Nutty Adventure
+inbento
 INSIDE
 Iris.Fall
 Journey
 Kena: Bridge of Spirits
 Kholat
 King's Bounty: Crossworlds
+Kingdom Eighties
+Kingdom Rush - Tower Defense
 Knight's Path: The Tournament
 Last Day of June
 Layers of Fear 2
@@ -181,6 +188,7 @@ Rise of the Tomb Raider
 Ruiner
 Rune Classic
 Sable
+Sacred Gold
 Sanctum 2
 Serious Sam: The First Encounter (+HD version)
 Serious Sam: The Second Encounter (+HD)
@@ -194,6 +202,7 @@ Sniper Elite V2: Remastered
 Sniper: Ghost Warrior 2
 Soldier of Fortune: Platinum Edition
 Sonic Adventure DX
+Sonic Racing: CrossWorlds
 Space Hulk: Deathwing Enhanced Edition
 Spirit of the North
 Splinter Cell
@@ -205,10 +214,12 @@ StarCraft & Brood War
 Stardew Valley
 SteamWorld Dig 2
 Stick Fight: The Game
+Stranded Deep
 Styx: Master of Shadows
 Styx: Shards of Darkness
 Syberia Remastered
 Tales From Windy Meadow
+The Beast Inside
 The Count Lucanor
 The Cub
 The Dark Occult
@@ -221,6 +232,7 @@ The Lord of the Rings: The Battle for Middle-earth
 The Medium
 The Midnight Walk
 The Mortuary Assistant
+The Outlast Trials
 The Park
 The Saboteur
 The Spectrum Retreat
@@ -247,6 +259,7 @@ Trine 3: The Artifacts of Power
 Trine 4: Melody of Mystery
 Trine 4: The Nightmare Prince
 Trine: Enchanted Edition
+Unpacking
 VA-11 Hall-A KIDS!
 Vane
 Victoria 3
@@ -255,6 +268,7 @@ Warcraft II: Battle.net Edition
 WarCraft III Reign of Chaos
 Warhammer 40,000: Dawn of War - Definitive Edition
 What Remains of Edith Finch
+Windbound
 Wolfenstein (2009)
 Wolfenstein: The New Order
 Wolfenstein: The Old Blood
