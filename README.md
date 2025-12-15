@@ -2,10 +2,13 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/GGL-git/Kurin?style=for-the-badge&label=Версія)](https://github.com/GGL-git/Kurin/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/GGL-git/Kurin/total?style=for-the-badge&color=00B000&label=Завантажень)](https://github.com/GGL-git/Kurin/releases/)
-[![Static Badge](https://img.shields.io/badge/total_games-457-blue?style=for-the-badge&label=Кількість%20ігор)](https://github.com/GGL-git/Kurin/blob/main/GAME%20LIST.txt)
+[![Static Badge](https://img.shields.io/badge/total_games-522-blue?style=for-the-badge&label=Кількість%20ігор)](https://github.com/GGL-git/Kurin/blob/main/GAME%20LIST.txt)
 
+---
 
-[Пряме завантаження (клацни на мене і почнеться завантаження)](https://github.com/GGL-git/Kurin/releases/download/v1.0.3/Kurin.-1.0.3.Setup.exe)
+[![Static Badge](https://img.shields.io/badge/download-blue?style=for-the-badge&label=Завантажити%20сервіс)](https://github.com/GGL-git/Kurin/releases/latest)
+
+---
 
 kurin’ використовує такі технології:  
 [![Electron](https://img.shields.io/badge/Electron-4078c0?style=for-the-badge&logo=electron&labelColor=gray)](https://www.electronjs.org/)
@@ -27,6 +30,19 @@ kurin’ використовує такі технології:
 
 **kurin’** — це лаунчер, подібний до *Steam* або *Vortex від Nexus*, але створений спеціально для українських фанатських локалізацій.  
 Його основа — **KULI** (Каталог української локалізації ігор).
+
+---
+
+## ✍️ Хочеш нам написати? Хочеш розповісти про свій переклад?
+
+Тоді ви спокійно можете написати нам у телеграм-бот. 
+> Пишіть про проблеми, про погане та добре, запропонуйте власну кандидатуру у команду чи просто дайте нам поради - усіх почуємо та відповімо.
+
+[![Static Badge](https://img.shields.io/badge/to-telegram-green?style=for-the-badge&label=Написати%20нам)](https://t.me/kurin_sup_bot)
+
+---
+
+## 🩻 Знятки
 <img width="1920" height="1020" alt="головна сторінка" src="https://github.com/user-attachments/assets/5b67a41e-890f-498a-b4ba-6e5ab7cffe0d" />
 <img width="1920" height="1020" alt="сторінка локалізації" src="https://github.com/user-attachments/assets/05c1f12b-d99a-4c36-8e9f-7de4d85fedfa" />
 
