@@ -3,8 +3,8 @@
 > Наразі ця версія є застарілою і більше не підтримується, натомість нову версію можете знайти за цим посиланням [LBK Launcher](https://github.com/Vadko/lbk-launcher)
 
 
-[![GitHub release](https://img.shields.io/github/v/release/Vadko/lbk-launcher?style=for-the-badge&label=Версія)](https://github.com/GGL-git/Kurin/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/Vadko/lbk-launcher/total?style=for-the-badge&color=00B000&label=Завантажень)](https://github.com/GGL-git/Kurin/releases/)
+[![GitHub release](https://img.shields.io/github/v/release/Vadko/lbk-launcher?style=for-the-badge&label=Версія)](https://github.com/Vadko/lbk-launcher/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/Vadko/lbk-launcher/total?style=for-the-badge&color=00B000&label=Завантажень)](https://github.com/Vadko/lbk-launcher/releases/)
 [![Static Badge](https://img.shields.io/badge/total_games-887-blue?style=for-the-badge&label=Кількість%20ігор)](https://github.com/GGL-git/Kurin/blob/main/GAME%20LIST.txt)
 
 ---
